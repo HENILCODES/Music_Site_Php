@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    setTimeout(endReload, 4500);
+    setTimeout(endReload, 2000);
 });
 function endReload(){
     document.getElementById("spiner").remove();
