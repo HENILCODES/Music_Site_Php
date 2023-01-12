@@ -13,6 +13,12 @@
 .invite{
     display: flex;
 }
+
+.act {
+    /* border-bottom: none !important; */
+    text-decoration: double;
+    
+}
 .nav_link {
     margin-top: 26px;
     font-family: 'Courier New', Courier, monospace
